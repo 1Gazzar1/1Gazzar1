@@ -16,7 +16,9 @@ Here are some ideas to get you started:
 -->
 # 👋 Hey, I'm Mohamed El-Gazzar ( gazgaz ) 
 
-Backend-focused developer and last-year CS student from Egypt. I like building interesting systems. Currently looking for a **remote Junior Backend / Full-Stack** role.
+Backend-focused developer and last-year CS student from Egypt. I like building interesting systems. 
+
+Currently looking for a **remote Junior Backend / Full-Stack** role.
 
 ## 🛠️ Tech I work with
 
